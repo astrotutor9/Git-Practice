@@ -1,3 +1,4 @@
 # Git-Practice
 
-Hello there!!
+## Story 1
+Complete. EASY!
